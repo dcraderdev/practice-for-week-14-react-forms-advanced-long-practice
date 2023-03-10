@@ -1,1 +1,7 @@
 /* TODO Add site wide styles */
+.location{
+  position: absolute;
+  left: 35%;
+  bottom: 10%;
+  font-size: 40px;
+}
